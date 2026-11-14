@@ -11,6 +11,13 @@ By the end of the course, students will be able to:
 
 ## Materials
 - [Lecture 1: Introduction to animal nutrition (PDF)](lecture01-introduction-to-animal-nutrition.pdf)
+- [Lecture 2: Comparative Digestive Physiology (PDF)](lecture02-comparative-digestive-physiology.pdf)
+- [Lecture 3: Water as a Nutrient (PDF)](lecture03-water-as-a-nutrient.pdf)
+- [Lecture 4: Feed Composition and Analysis (PDF)](lecture04-feed-composition-and-analysis.pdf)
+- [Lecture 5: Carbohydrate Energy (PDF)](lecture05-carbohydrates-energy.pdf)
+- [Lecture 6: Digestibility (PDF)](lecture06-digestibility.pdf)
+- [Lecture 7: Proteins (PDF)](lecture07-proteins.pdf)
+- [Lecture 8: Lipids (PDF)](lecture09-lipids.pdf)
 
 ## Assessment 
 - Written test, linked to outcome 1
