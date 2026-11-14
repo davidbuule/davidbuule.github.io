@@ -14,3 +14,34 @@ By the end of the course, students will be able to:
 
 ## Assessment 
 - Written test, linked to outcome 1
+
+
+## LEARNING MATERIALS
+
+Access the lecture notes, practical manuals, worksheets and other learning resources for Animal Nutrition and Feed Resources.
+
+---
+
+### 1. Lecture Notes
+
+- [Lecture 1: Introduction to Animal Nutrition](lecture01-introduction-to-animal-nutrition.pdf)
+
+### 2. Practical Manuals and Laboratory Exercises
+
+- Practical 1: Feed Sampling
+- Practical 2: Proximate Analysis
+- Practical 3: Digestibility Evaluation
+
+### 3. Student Worksheets
+
+- Worksheet 1: Feed Classification
+- Worksheet 2: Nutrient Calculations
+
+### 4. Assignments and Assessments
+
+- Assignment 1: Feed Evaluation
+- Assignment 2: Ration Formulation
+
+### 5. Supplementary Reading and References
+
+- Recommended Reading Materials
