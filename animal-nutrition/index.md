@@ -25,20 +25,22 @@ By the end of this course, students should be able to:
 3. Formulate balanced rations using manual and computer-based programmes.
 4. Apply animal nutrition and feeding principles to practical livestock production.
 
+
 ## 3. Lecture Notes
 
 Access the lecture notes below. The materials are organised according to the topics covered in the course.
 
 | No. | Lecture Topic | Learning Material |
 |---|---|---|
-| 1 | Introduction to Animal Nutrition | [Download Lecture 1 (PDF)](lecture01-introduction-to-animal-nutrition.pdf) |
-| 2 | Comparative Digestive Physiology | [Download Lecture 2 (PDF)](lecture02-comparative-digestive-physiology.pdf) |
-| 3 | Water as a Nutrient | [Download Lecture 3 (PDF)](lecture03-water-as-a-nutrient.pdf) |
-| 4 | Feed Composition and Analysis | [Download Lecture 4 (PDF)](lecture04-feed-composition-and-analysis.pdf) |
-| 5 | Carbohydrates and Energy | [Download Lecture 5 (PDF)](lecture05-carbohydrates-energy.pdf) |
-| 6 | Digestibility | [Download Lecture 6 (PDF)](lecture06-digestibility.pdf) |
-| 7 | Proteins | [Download Lecture 7 (PDF)](lecture07-proteins.pdf) |
-| 8 | Lipids | [Download Lecture 8 (PDF)](lecture08-lipids.pdf) |
+| 1 | Introduction to Animal Nutrition | [Download Lecture 1 (PDF)](lecture-notes/lecture01-introduction-to-animal-nutrition.pdf) |
+| 2 | Comparative Digestive Physiology | [Download Lecture 2 (PDF)](lecture-notes/lecture02-comparative-digestive-physiology.pdf) |
+| 3 | Water as a Nutrient | [Download Lecture 3 (PDF)](lecture-notes/lecture03-water-as-a-nutrient.pdf) |
+| 4 | Feed Composition and Analysis | [Download Lecture 4 (PDF)](lecture-notes/lecture04-feed-composition-and-analysis.pdf) |
+| 5 | Carbohydrates and Energy | [Download Lecture 5 (PDF)](lecture-notes/lecture05-carbohydrates-energy.pdf) |
+| 6 | Digestibility | [Download Lecture 6 (PDF)](lecture-notes/lecture06-digestibility.pdf) |
+| 7 | Proteins | [Download Lecture 7 (PDF)](lecture-notes/lecture07-proteins.pdf) |
+| 8 | Lipids | [Download Lecture 8 (PDF)](lecture-notes/lecture08-lipids.pdf) |
+
 
 ## 4. Practical Manuals and Laboratory Exercises
 
