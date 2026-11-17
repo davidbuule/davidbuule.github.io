@@ -42,17 +42,39 @@ Access the lecture notes below. The materials are organised according to the top
 | 8 | Lipids | [Download Lecture 8 (PDF)](lecture-notes/lecture08-lipids.pdf) |
 
 
+
 ## 4. Practical Manuals and Laboratory Exercises
 
-Practical sessions provide opportunities for students to apply theoretical knowledge through laboratory and feed evaluation activities.
+Practical sessions provide students with opportunities to apply theoretical knowledge through laboratory exercises and hands-on evaluation of animal feed resources. These activities develop practical skills in feed sampling, sample preparation and laboratory determination of the major components of animal feeds.
 
-The practical exercises include:
+### 4.1 General Laboratory Guidelines
 
-1. Feed Sampling
-2. Proximate Analysis
-3. Digestibility Evaluation
+Before undertaking laboratory exercises, students should familiarise themselves with the general guidelines on laboratory safety, feed sampling and data handling.
 
-Practical manuals and associated laboratory instructions will be made available in this section.
+- [Download: General Guidelines on Safety, Sampling and Data Handling (PDF)](practical-manuals/00-general-guidelines-safety-sampling-data-handling.pdf)
+
+### 4.2 Laboratory Practical Guides
+
+The following practical guides cover laboratory procedures for evaluating the chemical composition of animal feeds.
+
+| No. | Practical Exercise | Learning Material |
+|---|---|---|
+| 1 | Dry Matter Determination | [Download PDF](practical-manuals/01-practical-dry-Matter.pdf) |
+| 2 | Total Ash Determination | [Download PDF](practical-manuals/02-practical-total-ash.pdf) |
+| 3 | Crude Protein Determination | [Download PDF](practical-manuals/03-practical-crude-protein.pdf) |
+| 4 | Crude Fat Determination | [Download PDF](practical-manuals/04-practical-crude-fat.pdf) |
+| 5 | Fibre Analysis (NDF, ADF and ADL) | [Download PDF](practical-manuals/05-practical-fibre.pdf) |
+
+### 4.3 Student Preparation and Participation
+
+Students are expected to:
+
+1. Read the relevant practical guide before attending each laboratory session.
+2. Observe laboratory safety procedures and instructions.
+3. Participate actively in sample preparation, laboratory procedures and data collection.
+4. Record experimental observations and results accurately.
+5. Interpret laboratory findings and relate them to the nutritional value of animal feed resources.
+
 
 ## 5. Student Worksheets and Learning Activities
 
