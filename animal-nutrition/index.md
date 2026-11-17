@@ -63,7 +63,7 @@ The following practical guides cover laboratory procedures for evaluating the ch
 | 2 | Total Ash Determination | [Download PDF](practical-manuals/02-practical-total-ash.pdf) |
 | 3 | Crude Protein Determination | [Download PDF](practical-manuals/03-practical-crude-protein.pdf) |
 | 4 | Crude Fat Determination | [Download PDF](practical-manuals/04-practical-crude-fat.pdf) |
-| 5 | Fibre Analysis (NDF, ADF and ADL) | [Download PDF](practical-manuals/05-practical-fibre.pdf) |
+| 5 | Fibre Analysis | [Download PDF](practical-manuals/05-practical-fibre.pdf) |
 
 ### 4.3 Student Preparation and Participation
 
